@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017/10/10 11:11:14。
+     1>项目“E:\点云\新建文件夹\CloudPoint wyx\Readobj  读取数据\Readobj\Readobj.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“.\Debug\Readobj.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\Readobj.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib glaux.lib /MANIFEST /ManifestFile:".\Debug\Readobj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\点云\新建文件夹\CloudPoint wyx\Readobj  读取数据\Readobj\Debug\Readobj.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\Readobj.lib" /MACHINE:X86 .\Debug\Readobj.res
+         .\Debug\Readobj.exe.embed.manifest.res
+         .\Debug\MainFrm.obj
+         .\Debug\Readobj.obj
+         .\Debug\ReadobjDoc.obj
+         .\Debug\ReadobjView.obj
+         .\Debug\StdAfx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\Readobj.exe.embed.manifest" /manifest .\Debug\Readobj.exe.intermediate.manifest d:\vs2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Readobj.vcxproj -> E:\点云\新建文件夹\CloudPoint wyx\Readobj  读取数据\Readobj\.\Debug\Readobj.exe
+       BscMake:
+         d:\vs2010\VC\bin\bscmake.exe /nologo /o".\Debug\Readobj.bsc" .\Debug\MainFrm.sbr .\Debug\Readobj.sbr .\Debug\ReadobjDoc.sbr .\Debug\ReadobjView.sbr .\Debug\StdAfx.sbr
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\Readobj.unsuccessfulbuild”。
+         正在对“.\Debug\Readobj.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\点云\新建文件夹\CloudPoint wyx\Readobj  读取数据\Readobj\Readobj.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.14
